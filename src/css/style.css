@@ -1,0 +1,142 @@
+.logo {
+  width: 5rem;
+  height: 5rem;
+}
+
+.navbar-list {
+  list-style: none;
+}
+
+.ml-1 {
+  margin-left: 1rem;
+}
+
+.ml-2 {
+  margin-left: 2rem;
+}
+
+.ml-3 {
+  margin-left: 3rem;
+}
+
+.ml-4 {
+  margin-left: 4rem;
+}
+
+.ml-5 {
+  margin-left: 5rem;
+}
+
+.mr-1 {
+  margin-right: 1rem;
+}
+
+.mr-2 {
+  margin-right: 2rem;
+}
+
+.mr-3 {
+  margin-right: 3rem;
+}
+
+.mr-4 {
+  margin-right: 4rem;
+}
+
+.mr-5 {
+  margin-right: 5rem;
+}
+
+.ubg-primary {
+  background-color: gray;
+}
+
+.color-white {
+  color: white;
+}
+
+#hero-section {
+  background-color: gray;
+  color: white;
+  padding: 50px;
+  font-size: 20px;
+}
+
+.navbar-text {
+  font-size: 22px;
+}
+
+.hero-images {
+  height: 15rem;
+  width: 15rem;
+  border-radius: 50rem;
+}
+
+.hero-text-section {
+  width: 50%;
+}
+
+.card-image {
+  width: 15rem;
+  height: 15rem;
+}
+
+.card-text {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.card-order-now-button {
+  background-color: white;
+  color: black;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+}
+
+.ucard {
+  width: max-content;
+  height: max-content;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.contactus-input {
+  font-size: 22px;
+  padding: 5px;
+}
+
+.contactus-section {
+  width: 80%;
+}
+
+.contactus-submit-button {
+  background: green !important;
+  margin: 20px 49px !important;
+  padding: 10px 62px !important;
+  font-size: 28px !important;
+}
+
+.foooter {
+  height: 5rem;
+  background-color: black;
+  color: white;
+}
+
+#aboutus-section {
+  background-color: gainsboro;
+}
+
+#about-section-p {
+  font-size: 23px;
+}
+
+#hero-section-second-image {
+  margin-left: 15rem;
+}
